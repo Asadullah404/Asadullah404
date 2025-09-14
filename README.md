@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AsadullahSohail&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Asadullah404&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <br>
 
@@ -21,15 +21,15 @@
 - 🌱 **Currently learning:** Artificial Intelligence & Machine Learning  
 - 💼 **Experience:** Web Development Intern @ CodSoft | Member @ Google DSC  
 - 💬 **Ask me about:** Collaboration, Full-Stack Development, AI/ML basics  
-- 📫 **Reach me at:** muhammad.asadullah.suhail@gmail.com 
+- 📫 **Reach me at:** muhammad.asadullah.suhail@gmail.com  
 - ⚡ **Fun fact:** I love creating useful tech solutions 🚀  
 
 <br><br>
 
 ## 🌍 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asadullah-sohail) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AsadullahSohail) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadullahsohail03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asadullah-sohail)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Asadullah404)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammad.asadullah.suhail@gmail.com)
 
 ## ⚙️ Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -50,18 +50,18 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AsadullahSohail&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AsadullahSohail&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullahSohail&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Asadullah404&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Asadullah404&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah404&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AsadullahSohail&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Asadullah404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AsadullahSohail&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Asadullah404&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
